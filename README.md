@@ -4,7 +4,7 @@
 Parent-teacher communication in Kenyan schools suffers from significant gaps. Several parents in Kenya lack an understanding of the new education system; and this has been an impediment to the successful implementation of competency-based curriculum in primary schools in the country. This lack of understanding has been further impaired by poor communication between parents and the school, which subsequently contribute to student indiscipline and lower academic achievement. 
 
 ## Solution
-[2 sentences. What SchlPulse does.]
+In Kenyan private primary and secondary schools, parent-teacher communication gaps—exacerbated by parents' limited understanding of the Competency-Based Curriculum (CBC), manual messaging overload, missed announcements, and inaccessible updates—lead to low parent engagement, student indiscipline, and declining academic achievement. School admins waste hours on calls and chases, while parents struggle with shift conflicts, data issues, and school operational changes. SchlPulse, an AI-powered WhatsApp bot, addresses this by enabling 24/7 automated pushes of announcements, schedules, report cards, alerts, and FAQ answers—streamlining communication between parents and teachers/school administrators
 
 ## System Architecture
 [Screenshot of Make scenario with annotations]
