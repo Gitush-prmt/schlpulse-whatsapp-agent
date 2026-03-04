@@ -14,7 +14,9 @@ SchlPulse, an AI-powered WhatsApp bot, addresses this by enabling 24/7 automated
 [Table]
 
 ## Conversation Flow
-[Figma diagram screenshot or ASCII flow]
+https://www.figma.com/board/HAWKgfdgwQGztiYspl4cIy/SchlPulse-%E2%80%94-Conversation-Architecture-v1?node-id=0-1&t=EZqICAd870HYWRqs-1
+<img width="1787" height="875" alt="Conversation Flow" src="https://github.com/user-attachments/assets/8fedca3a-d056-4d26-beae-f1b918f2e556" />
+
 
 ## WhatsApp Templates
 [List all 8 templates with category and use case]
