@@ -11,7 +11,11 @@ SchulPulse, an AI-powered WhatsApp bot, addresses this by enabling 24/7 automate
 
 ## Tech Stack
 | Tool | Role | Why Chosen |
-[Table]
+| Header 1 | Header 2 | Header 3 |
+| :--- | :---: | ---: |
+| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
+| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+
 
 ## Conversation Flow
 https://www.figma.com/board/HAWKgfdgwQGztiYspl4cIy/SchulPulse-%E2%80%94-Conversation-Architecture-v1?node-id=0-1&t=EZqICAd870HYWRqs-1
