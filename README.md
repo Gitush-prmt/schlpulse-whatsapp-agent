@@ -32,7 +32,7 @@ https://www.figma.com/board/HAWKgfdgwQGztiYspl4cIy/SchulPulse-%E2%80%94-Conversa
 ## WhatsApp Templates
 | # | Template Name | Category | Example |
 |---|---|---|---|
-| 1 | `Schulpulse_welcome` | Utility | "Welcome to SchulPulse for [School]. Reply HELP for options." |
+| 1 | `Schulpulse_welcome` | Utility | "🏫 Welcome to SchulPulse for [School]. Reply MORE for options." |
 | 2 | `Schulpulse_announcement` | Utility | "📢 [School]: {{message}}. Sent via SchulPulse." |
 | 3 | `Schulpulse_fee_reminder` | Utility | "Hi {{parent_name}}, {{child_name}}'s fee balance is KSh {{amount}}. Due: {{date}}." |
 | 4 | `Schulpulse_exam_alert` | Utility | "📝 Exams begin {{date}}. Timetable: {{link}}. — {{school_name}}" |
