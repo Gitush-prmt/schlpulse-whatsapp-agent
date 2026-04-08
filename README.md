@@ -33,13 +33,13 @@ https://www.figma.com/board/HAWKgfdgwQGztiYspl4cIy/SchulPulse-%E2%80%94-Conversa
 | # | Template Name | Category | Example |
 |---|---|---|---|
 | 1 | `Schulpulse_welcome` | Utility | "🏫 Welcome to SchulPulse for [School]. Reply MORE for options." |
-| 2 | `Schulpulse_announcement` | Utility | "📢 [School]: {{message}}. Sent via SchulPulse." |
-| 3 | `Schulpulse_fee_reminder` | Utility | "Hi {{parent_name}}, {{child_name}}'s fee balance is KSh {{amount}}. Due: {{date}}." |
-| 4 | `Schulpulse_exam_alert` | Utility | "📝 Exams begin {{date}}. Timetable: {{link}}. — {{school_name}}" |
-| 5 | `Schulpulse_term_dates` | Utility | "📅 Term {{term}} ends {{date}}. Next term begins {{date}}." |
-| 6 | `Schulpulse_emergency` | Utility | "🚨 URGENT — {{school_name}}: {{message}}. Contact: {{phone}}" |
-| 7 | `Schulpulse_report_card` | Utility | "{{child_name}}'s report is ready. View here: {{link}}" |
-| 8 | `Schulpulse_optin_confirm` | Utility | "You're now receiving updates from {{school_name}} via SchulPulse. Reply STOP to opt out." |
+| 2 | `Schulpulse_announcement` | Utility |  "📢 [School]: Important Update: {{message}}. Sent via SchulPulse.” |
+| 3 | `Schulpulse_fee_reminder` | Utility | "Dear {{parent_name}}, the fee balance for {{child_name}} is KSh {{amount}}. Due: {{date}}.” |
+| 4 | `Schulpulse_exam_alert` | Utility | "📝 Dear {{parent_name}}, Exams begin on {{date}}. Timetable: {{link}}. — {{school_name}}” |
+| 5 | `Schulpulse_term_dates` | Utility | "📅 Dear {{parent_name}}, Term {{term}} ends on {{date}}. Next term begins on {{date}}.” |
+| 6 | `Schulpulse_emergency` | Utility | "🚨 URGENT — {{school_name}}: {{message}}. Contact: {{phone}}” |
+| 7 | `Schulpulse_report_card` | Utility | "Dear {{parent_name}}, {{child_name}}'s report is ready. View here: {{link}}” |
+| 8 | `Schulpulse_optin_confirm` | Utility | "You are now receiving updates from {{school_name}} via SchulPulse. Reply STOP to opt out.” |
 
 
 ## Key Decisions & Trade-offs
